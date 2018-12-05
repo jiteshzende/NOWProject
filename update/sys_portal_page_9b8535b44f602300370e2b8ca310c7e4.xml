@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-12-05 10:19:18">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>newton</sys_created_by>
+        <sys_created_on>2018-09-12 07:36:35</sys_created_on>
+        <sys_domain>c0da2d624f502300370e2b8ca310c7bc</sys_domain>
+        <sys_domain_path>!!!/!!,/</sys_domain_path>
+        <sys_id>9b8535b44f602300370e2b8ca310c7e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_cic_demo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Blizzard" source="x_228544_blizzard">73dfe1fc4f202300370e2b8ca310c720</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Blizzard">73dfe1fc4f202300370e2b8ca310c720</sys_scope>
+        <sys_update_name>sys_portal_page_9b8535b44f602300370e2b8ca310c7e4</sys_update_name>
+        <sys_updated_by>newton</sys_updated_by>
+        <sys_updated_on>2018-09-12 07:36:35</sys_updated_on>
+        <title>catalog_cic_demo</title>
+        <user/>
+        <view>catalog_cic_demo</view>
+    </sys_portal_page>
+</record_update>
